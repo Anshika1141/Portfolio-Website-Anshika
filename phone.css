@@ -1,0 +1,19 @@
+.home{
+    height: 820px;
+
+}
+.headings{
+    font-size: 1.7rem;
+
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+.input{
+    width: 80%;
+
+}
+#send{
+    width: 20%;
+
+}
